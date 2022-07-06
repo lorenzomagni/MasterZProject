@@ -1,3 +1,3 @@
 Final project for second edition of [MasterZ](https://www.masterzblockchain.com/). The project was made in collaboration with Crèdit Agricole and BlockInvest.
 
-Authors: [Lorenzo Magni](https://www.linkedin.com/in/lorenzomagni97/), [Alessandro De Micco](https://www.linkedin.com/in/alessandro-de-micco-ciia-b98742171/), [Carmine Fiorentino](https://www.linkedin.com/in/fiorentinocarmine/), [Chiara Menini](https://www.linkedin.com/in/chiara-menini/).
+Authors: [Lorenzo Magni](https://www.linkedin.com/in/lorenzomagni97/), [Alessandro De Micco](https://www.linkedin.com/in/alessandro-de-micco-ciia-b98742171/), [Carmine Fiorentino](https://www.linkedin.com/in/fiorentinocarmine/), [Chiara Menini](https://www.linkedin.com/in/chiara-menini/), [Raimondo Marzullo](https://www.linkedin.com/in/raimondo-marzullo?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABiMZX4BqQ_r1kBuzP-1pD9ROIePX1rG1j0&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BPFb1QOUaQpCbC%2BNf8sKh6Q%3D%3D)
